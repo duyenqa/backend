@@ -14,3 +14,5 @@ npm i express dotenv cors nodemon
 ```txt
 npm run dev
 ```
+## API
+* **Server:** http://localhost:5000
