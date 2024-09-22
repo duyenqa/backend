@@ -1,5 +1,5 @@
-# backend
-nodejs
+# backend Nodejs version 20.17.0
+
 ## Create project
 ```txt
 npm init -y
