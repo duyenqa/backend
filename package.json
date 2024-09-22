@@ -5,10 +5,10 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": ["javascript"],
   "author": "Ngo Thi Kim Duyen",
   "license": "ISC",
-  "description": "",
+  "description": "nodejs",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
